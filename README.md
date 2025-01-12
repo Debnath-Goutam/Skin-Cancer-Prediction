@@ -1,1 +1,2 @@
-# Skin-Cancer-Prediction
+# Skin Cancer Prediction Using Convolutional Neural Networks
+This project aims to develop a robust Convolutional Neural Network (CNN) for predicting skin cancer. The project includes two baseline models and a third model whose hyperparameters were optimized using Bayesian optimization. The models are trained on a dataset of skin lesion images to classify them into different categories of skin cancer. The use of Bayesian optimization helps in fine-tuning the hyperparameters, leading to improved accuracy and performance of the third model.
